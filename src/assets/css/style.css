@@ -1,0 +1,43 @@
+.nomal_button{
+	width: 60px;
+	height: 35px;
+	border-radius: 5px;
+		border: none;
+}
+.low_button{
+	width: 120px;
+	height: 40px;
+	border-radius: 5px;
+	border: none;
+}
+.bule_bts{
+	background: #40a3ff;
+	color: white;
+	
+}
+.blue_bts{
+	background: #ebf5ff;
+	color: #0084ff;
+	font-weight: 600;
+}
+.nomal_font{
+	font-size: 16px;
+	font-weight: 300;
+	color:#a590a6 ;
+	text-decoration: none;
+}
+.small_font{
+	font-size: 12px;
+	color:#a590a6 ;
+}
+.big_button{
+	width: 200px;
+	height: 60px;
+	border-radius:30px;
+	border: none;
+}
+.gray_bts{
+	background: #ffffff;
+	color: #8590a6;
+	font-weight:600;
+}
